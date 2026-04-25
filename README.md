@@ -5,6 +5,5 @@
 - 🧠 Always excited to dive deep into **Machine Learning**, **AI**, and cutting-edge tech
 - 🤝 Looking to collaborate on **Programming** projects and AI-driven innovations
 - ✨ Let's build something amazing together!  
-- 📫 Reach me on Twitter: [@immaworrier](https://x.com/immaworrier)
 
 🚀 I believe in bringing the future to life, one line of code at a time—combining creativity, innovation, and AI to solve real-world problems.
